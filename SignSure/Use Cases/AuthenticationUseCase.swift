@@ -2,7 +2,7 @@
 //  AuthenticationUseCase.swift
 //  SignSure
 //
-//  Created by Petrit Vosha on 13.12.2024.
+//  Created by Petrit Vosha on 24.12.2024.
 //
 
 import Combine

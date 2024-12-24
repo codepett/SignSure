@@ -7,6 +7,7 @@
 
 import XCTest
 import Combine
+import AppAuth
 @testable import SignSure
 
 class AuthenticationUseCaseTests: XCTestCase {
